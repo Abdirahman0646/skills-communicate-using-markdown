@@ -7,3 +7,23 @@ I’m learning how to use Markdown on GitHub.
 Markdown helps me format text easily without writing HTML.
 
 ###### This is a small header
+
+![My GitHub Avatar](https://octodex.github.com/images/yaktocat.png)
+Added an image using Markdown
+
+<pre> ``` $ git status On branch main nothing to commit, working tree clean ``` </pre>
+<pre> ```python print("Hello, GitHub!") ``` </pre>
+Added code block example in Markdown
+
+## My Task List
+
+- [ ] Turn on GitHub Pages  
+- [ ] Outline my portfolio  
+- [ ] Introduce myself to the world
+## My To-Do List
+
+- [x] Add headers  
+- [x] Add an image  
+- [x] Add a code block  
+- [ ] Add a task list  
+Added a Markdown task list
