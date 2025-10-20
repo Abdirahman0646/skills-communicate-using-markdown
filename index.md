@@ -7,3 +7,6 @@ I’m learning how to use Markdown on GitHub.
 Markdown helps me format text easily without writing HTML.
 
 ###### This is a small header
+
+![My GitHub Avatar](https://octodex.github.com/images/yaktocat.png)
+Added an image using Markdown
